@@ -65,7 +65,7 @@ void parler(int nombre){
 			printf("quarante");
 			break;
 		case 50:
-			printf("vingt");
+			printf("cinquante");
 			break;
 		default:
 			printf("Erreur");
